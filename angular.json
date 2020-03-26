@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "hyj08": {
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "hyj08"
+    }
+  },
+  "defaultProject": "hyj08",
+  "cli": {
+    "analytics": "2fd1fcb6-1c38-4e70-9256-af6698333a73"
+  }
 }
